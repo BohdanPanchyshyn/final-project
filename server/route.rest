@@ -1,0 +1,20 @@
+POST  http://localhost:3000/api/news
+Content-Type: application/json
+
+{
+    "title": "FIGHT Такої Європи ви хотіли?",
+    "text": "В селі Гірське попіздились два алкоголіки!.",
+    "image": "https://images.app.goo.gl/фотка_двох_геїв"
+}
+
+###
+
+DELETE  http://localhost:3000/api/users/630a232f7667890aa710f108
+
+
+###
+
+GET  http://localhost:3000/api/users/
+
+###
+DELETE http://localhost:3000/api/users/630c7beca736631e4b076f9f

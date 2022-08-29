@@ -1,0 +1,21 @@
+.sidebar {
+   background-color: grey;
+   border-radius: 5px;
+   border: 2px solid black;
+
+}
+
+.sidebarUl {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.sidebarUlLi {
+   margin: 20px;
+}
+
+.sidebarText {
+   text-decoration: none;
+   color: brown;
+}

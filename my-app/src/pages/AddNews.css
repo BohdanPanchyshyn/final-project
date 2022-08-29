@@ -1,0 +1,28 @@
+.formAddNews {
+   margin: 5px;
+   display: grid;
+   justify-content: center;
+}
+
+.textAreaAddNews {
+   border: 2px solid black;
+   border-radius: 10px;
+   width: 300px;
+   height: 100px;
+}
+
+.inputAddNews {
+   margin: 5px;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+
+.buttonAddNews {
+   margin: 5px;
+   width: 80px;
+}
+
+.boxButton {
+   display: grid;
+   justify-content: center;
+}

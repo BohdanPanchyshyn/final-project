@@ -1,0 +1,21 @@
+.createNewsTitle {
+   color: green;
+   cursor: pointer;
+}
+
+.createNewsImg {
+   width: 500px;
+   height: 350px;
+   border-radius: 15px;
+}
+
+.blockNews {
+   margin: 5px;
+   width: 750px;
+   border: 2px solid black;
+}
+
+.containerNews {
+   display: grid;
+   justify-content: center;
+}
